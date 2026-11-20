@@ -1,0 +1,7 @@
+subset,outcome,"glia coef, all mice","glia coef, subset","glia p, subset","NeuN coef, all mice","NeuN coef, subset","NeuN p, subset",n subset
+any IHC stain,Memory composite wk12,-0.512,-0.357,0.0966,-0.0224,-0.1312,0.5823,27
+any IHC stain,T-maze wk12 15s,-0.2778,-0.2491,0.0504,0.0556,-0.0952,0.4964,27
+all three stains (indices),Memory composite wk12,-0.512,-0.5393,0.0069,-0.0224,-0.0437,0.8354,21
+all three stains (indices),T-maze wk12 15s,-0.2778,-0.3091,0.0201,0.0556,-0.0667,0.6447,21
+proteomics,Memory composite wk12,-0.512,-0.3204,0.1508,-0.0224,-0.1465,0.5611,24
+proteomics,T-maze wk12 15s,-0.2778,-0.2778,0.0316,0.0556,-0.1111,0.434,24

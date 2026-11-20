@@ -1,0 +1,4 @@
+outcome,n,glia coef (no sex term),glia p (no sex term),glia coef (+ Ddx3y),glia p (+ Ddx3y),glia perm p (+ Ddx3y),% change in glia coef,NeuN p (+ Ddx3y),Ddx3y coef,Ddx3y p
+Memory composite wk12,24,-0.3204,0.1508,-0.3084,0.188,0.1937,-3.7287,0.6258,-0.0478,0.825
+T-maze wk12 15s,24,-0.2778,0.0316,-0.2843,0.0368,0.0734,2.3529,0.4278,0.0261,0.8294
+NOR wk12,22,-0.2011,0.1184,-0.2157,0.1047,0.1431,7.29,0.4885,0.0879,0.4845

@@ -1,0 +1,4 @@
+marker,n mice,n values,LR statistic,df,p (group effect differs by region)
+GFAP,24,120,8.7234,12,0.7264
+NeuN,24,120,7.5085,12,0.8223
+IBA1,24,120,22.2949,12,0.0343

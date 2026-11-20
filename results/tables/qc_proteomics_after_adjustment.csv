@@ -1,0 +1,3 @@
+data,ANOVA p<0.05 (of 3492),Gfap vs IHC GFAP rho,shuffled-label count mean,shuffled 2.5%,shuffled 97.5%,percentile of observed
+as measured,115,0.0532,144.835,14.975,575.15,0.595
+technical factors removed,377,-0.0623,166.91,20.925,678.55,0.91

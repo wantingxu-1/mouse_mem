@@ -1,0 +1,13 @@
+term,statistic,pvalue,df_constraint
+Intercept,0.0,1.0,1
+glia_high,4.3459,0.0371,1
+neun_low,4.6807,0.0305,1
+d60,5.0278,0.0249,1
+glia_high:d60,0.2762,0.5992,1
+neun_low:d60,4.3521,0.037,1
+w12,4.808,0.0283,1
+glia_high:w12,0.473,0.4916,1
+neun_low:w12,0.6625,0.4157,1
+d60:w12,4.104,0.0428,1
+glia_high:d60:w12,0.8644,0.3525,1
+neun_low:d60:w12,0.2424,0.6224,1

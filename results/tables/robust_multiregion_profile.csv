@@ -1,0 +1,4 @@
+marker,n,PERMANOVA pseudo-F,PERMANOVA p,dist PM2.5 to Saline,dist PM2.5 EV to Saline,dist N EV to Saline,N EV closer than PM2.5 (D),one-sided p
+GFAP,24,4.9162,0.0005,3.2135,3.0505,1.0843,2.1292,0.0051
+NeuN,24,2.8071,0.0037,3.106,2.2452,2.3871,0.7189,0.1235
+IBA1,24,7.598,0.0001,3.4111,2.9834,0.4922,2.9189,0.0013

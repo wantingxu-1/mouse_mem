@@ -1,0 +1,37 @@
+outcome,features,model,n,LOOCV R2,MAE,R2 95% low,R2 95% high,perm p
+Memory composite wk12,-,training mean (baseline),21,-0.1025,0.373,,,
+Memory composite wk12,-,group means (baseline),21,0.182,0.2857,,,
+Memory composite wk12,15 IHC,Ridge,21,0.3225,0.2683,-0.1272,0.5293,0.0196
+Memory composite wk12,15 IHC,PLS,21,0.2992,0.2722,-0.1502,0.5408,0.0196
+Memory composite wk12,15 IHC,ARD (Bayesian sparse),21,-0.4805,0.3712,-2.1246,0.3168,0.1961
+Memory composite wk12,15 IHC,Gaussian process,21,0.2321,0.2877,-0.6615,0.5334,0.0196
+Memory composite wk12,15 IHC,Linear SVR,21,0.1609,0.2893,-0.7278,0.5631,0.0196
+Memory composite wk12,15 IHC,kNN,21,0.1298,0.3067,-0.545,0.4945,0.0392
+Memory composite wk12,15 IHC,Random forest,21,0.2186,0.3022,-0.2161,0.4307,0.0392
+Memory composite wk12,15 IHC,Gradient boosting,21,0.275,0.2762,-0.2627,0.5669,0.0196
+Memory composite wk12,Glia + NeuN index,Ridge,21,0.2956,0.2829,-0.109,0.5082,0.0196
+Memory composite wk12,Glia + NeuN index,PLS,21,0.3371,0.2704,-0.1354,0.5693,0.0196
+Memory composite wk12,Glia + NeuN index,ARD (Bayesian sparse),21,0.3069,0.2815,-0.1517,0.5325,0.0196
+Memory composite wk12,Glia + NeuN index,Gaussian process,21,0.2264,0.2814,-0.2795,0.4636,0.0392
+Memory composite wk12,Glia + NeuN index,Linear SVR,21,0.247,0.29,-0.2751,0.4872,0.0196
+Memory composite wk12,Glia + NeuN index,kNN,21,0.1378,0.3095,-0.4393,0.4244,0.0588
+Memory composite wk12,Glia + NeuN index,Random forest,21,0.1494,0.3091,-0.5324,0.4882,0.0392
+Memory composite wk12,Glia + NeuN index,Gradient boosting,21,-0.1303,0.3485,-1.4423,0.4574,0.1176
+T-maze wk12 15s,-,training mean (baseline),21,-0.1025,0.2365,,,
+T-maze wk12 15s,-,group means (baseline),21,0.1162,0.2222,,,
+T-maze wk12 15s,15 IHC,Ridge,21,0.3332,0.1672,-0.2179,0.6306,0.0196
+T-maze wk12 15s,15 IHC,PLS,21,0.3742,0.1735,-0.1917,0.6427,0.0196
+T-maze wk12 15s,15 IHC,ARD (Bayesian sparse),21,0.4536,0.1502,-0.0575,0.716,0.0196
+T-maze wk12 15s,15 IHC,Gaussian process,21,0.2425,0.1876,-0.2369,0.464,0.0392
+T-maze wk12 15s,15 IHC,Linear SVR,21,0.4113,0.1644,-0.0309,0.6359,0.0196
+T-maze wk12 15s,15 IHC,kNN,21,0.2043,0.185,-0.2963,0.4848,0.0588
+T-maze wk12 15s,15 IHC,Random forest,21,0.1147,0.185,-0.4688,0.5381,0.0588
+T-maze wk12 15s,15 IHC,Gradient boosting,21,0.0798,0.1885,-0.7547,0.584,0.0784
+T-maze wk12 15s,Glia + NeuN index,Ridge,21,0.3709,0.1661,-0.0573,0.6142,0.0196
+T-maze wk12 15s,Glia + NeuN index,PLS,21,0.4247,0.1564,-0.0306,0.6723,0.0196
+T-maze wk12 15s,Glia + NeuN index,ARD (Bayesian sparse),21,0.3816,0.1612,-0.1071,0.6469,0.0196
+T-maze wk12 15s,Glia + NeuN index,Gaussian process,21,0.2474,0.1864,-0.2442,0.4748,0.0196
+T-maze wk12 15s,Glia + NeuN index,Linear SVR,21,0.3964,0.1654,-0.0744,0.6248,0.0196
+T-maze wk12 15s,Glia + NeuN index,kNN,21,0.1969,0.1837,-0.3934,0.496,0.0196
+T-maze wk12 15s,Glia + NeuN index,Random forest,21,0.2778,0.1889,-0.4261,0.5549,0.0392
+T-maze wk12 15s,Glia + NeuN index,Gradient boosting,21,0.1574,0.2149,-0.8021,0.5218,0.0196

@@ -1,0 +1,8 @@
+target,n mice,n proteins,max freq real,max freq decoy,real >= 0.6,decoy >= 0.6,best threshold,estimated FDP at best,n selected (FDP<=0.5),top 5 proteins (freq)
+Glia_idx,23,3492,0.05,0.135,0,0,,inf,0,"Rap2b (0.05), Atp5me (0.04), Fbxo2 (0.04), Gorasp1 (0.04), Ist1 (0.04)"
+IBA1_idx,22,3492,0.115,0.095,0,0,,inf,0,"Pdzd11 (0.12), Psme2 (0.06), Calcoco1 (0.05), Pcdh9 (0.04), Ppp1r16a (0.04)"
+GFAP_idx,21,3492,0.025,0.16,0,0,,inf,0,"Cdk5rap3 (0.03), Gosr2 (0.03), Cstf2t (0.03), Akap8l (0.02), Phactr1 (0.02)"
+NeuN_idx,21,3492,0.06,0.215,0,0,,inf,0,"Nudt3 (0.06), Sf3a2 (0.06), Atp5mk (0.05), Ptgds (0.05), Dazap1 (0.04)"
+Mem12,24,3492,0.04,0.15,0,0,,inf,0,"Sra1 (0.04), Agfg1 (0.04), Hbs1l (0.04), Ptprg (0.03), Snapin (0.03)"
+T12_15,24,3492,0.08,0.135,0,0,,inf,0,"Prps2 (0.08), Naga (0.04), U2surp (0.04), Synj1 (0.04), Atp5me (0.04)"
+POSITIVE CONTROL: detection depth,24,3492,0.525,0.01,0,0,0.3,1.0,0,"Bcam (0.53), Slc9a6 (0.28), Osbp (0.27), Hspa2 (0.23), Rbm39 (0.20)"

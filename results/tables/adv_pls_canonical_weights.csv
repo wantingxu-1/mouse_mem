@@ -1,0 +1,21 @@
+block,variable,weight,95% low,95% high,CI excludes 0
+IHC,GFAP CA1,0.2591,0.0544,0.373,True
+IHC,GFAP CA2,0.316,-0.0087,0.41,False
+IHC,GFAP CA3,0.3484,0.0438,0.4662,True
+IHC,GFAP DG,0.1769,-0.1168,0.3349,False
+IHC,GFAP Cortex,0.1815,-0.2902,0.3696,False
+IHC,NeuN CA1,-0.0543,-0.3248,0.2842,False
+IHC,NeuN CA2,-0.1793,-0.3628,0.2374,False
+IHC,NeuN CA3,-0.0686,-0.2826,0.1931,False
+IHC,NeuN DG,-0.2675,-0.3734,0.0026,False
+IHC,NeuN Cortex,-0.2601,-0.3721,0.0878,False
+IHC,IBA1 CA1,0.3173,0.1477,0.4035,True
+IHC,IBA1 CA2,0.2712,0.0607,0.3904,True
+IHC,IBA1 CA3,0.3179,0.1336,0.4251,True
+IHC,IBA1 DG,0.3206,0.1633,0.388,True
+IHC,IBA1 cortex,0.3007,0.104,0.4256,True
+behaviour,T-maze wk12 15s,-0.8204,-0.9278,-0.2858,True
+behaviour,T-maze wk12 60s,0.0904,-0.455,0.4929,False
+behaviour,NOR wk12,-0.5007,-0.7187,0.1251,False
+behaviour,EPM open time wk12,-0.0762,-0.5608,0.5164,False
+behaviour,EPM crossing freq wk12,-0.2496,-0.5903,0.4128,False

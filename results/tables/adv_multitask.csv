@@ -1,0 +1,21 @@
+setting,model,task,n,LOOCV R2
+A: IHC -> 4 T-maze tasks,training mean (baseline),T-maze wk4 15s,21,-0.1025
+A: IHC -> 4 T-maze tasks,training mean (baseline),T-maze wk4 60s,21,-0.1025
+A: IHC -> 4 T-maze tasks,training mean (baseline),T-maze wk12 15s,21,-0.1025
+A: IHC -> 4 T-maze tasks,training mean (baseline),T-maze wk12 60s,21,-0.1025
+A: IHC -> 4 T-maze tasks,group means,T-maze wk4 15s,21,-0.2478
+A: IHC -> 4 T-maze tasks,group means,T-maze wk4 60s,21,0.0161
+A: IHC -> 4 T-maze tasks,group means,T-maze wk12 15s,21,0.1162
+A: IHC -> 4 T-maze tasks,group means,T-maze wk12 60s,21,-0.2831
+A: IHC -> 4 T-maze tasks,single-task Elastic Net,T-maze wk4 15s,21,-0.1013
+A: IHC -> 4 T-maze tasks,single-task Elastic Net,T-maze wk4 60s,21,0.2374
+A: IHC -> 4 T-maze tasks,single-task Elastic Net,T-maze wk12 15s,21,0.3096
+A: IHC -> 4 T-maze tasks,single-task Elastic Net,T-maze wk12 60s,21,-0.1161
+A: IHC -> 4 T-maze tasks,multi-task Elastic Net,T-maze wk4 15s,21,-0.2081
+A: IHC -> 4 T-maze tasks,multi-task Elastic Net,T-maze wk4 60s,21,0.3174
+A: IHC -> 4 T-maze tasks,multi-task Elastic Net,T-maze wk12 15s,21,0.2256
+A: IHC -> 4 T-maze tasks,multi-task Elastic Net,T-maze wk12 60s,21,-0.3115
+"B: proteome -> memory, auxiliary IHC tasks","protein sets, Mem12 only",Memory composite wk12,21,-0.1025
+"B: proteome -> memory, auxiliary IHC tasks","protein sets, Mem12 + Glia/NeuN auxiliary tasks",Memory composite wk12,21,-0.1025
+"B: proteome -> memory, auxiliary IHC tasks",group means,Memory composite wk12,21,-0.1618
+"B: proteome -> memory, auxiliary IHC tasks",training mean (baseline),Memory composite wk12,21,-0.1025

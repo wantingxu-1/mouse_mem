@@ -1,0 +1,11 @@
+statistic,all mice,min after drop,max after drop,most influential mouse,group of that mouse
+Mem12 glia coef,-0.512,-0.5814,-0.4327,48,N EV
+Mem12 glia p,0.0064,0.0014,0.0203,48,N EV
+Mem12 NeuN coef,-0.0224,-0.1018,0.0469,48,N EV
+Mem12 NeuN p,0.9141,0.6236,0.9857,48,N EV
+T12_15 glia coef,-0.2778,-0.3207,-0.2548,42,N EV
+T12_15 glia p,0.0085,0.0029,0.0167,37,N EV
+T12_15 NeuN coef,0.0556,-0.0126,0.0985,8,Saline
+T12_15 NeuN p,0.6359,0.4022,0.9091,8,Saline
+Glia rho,-0.4723,-0.5787,-0.4155,18,PM2.5
+Glia rho p,0.0148,0.0024,0.0388,15,PM2.5

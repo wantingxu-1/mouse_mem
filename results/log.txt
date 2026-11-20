@@ -1,0 +1,12 @@
+Run started 2026-11-19 19:09:24
+
+==============================================================================
+ML 2  Elastic Net: proteome -> behaviour (nested LOOCV)
+==============================================================================
+              outcome  n mice  n proteins (all-mice filter)  Elastic Net LOOCV R2  perm p  training-mean LOOCV R2  group-means LOOCV R2
+Memory composite wk12      24                          3492                -0.204     NaN                  -0.089                -0.118
+      T-maze wk12 15s      24                          3492                -0.184     NaN                  -0.089                 0.197
+  -> saved table results/tables/ml_elasticnet_proteomics.csv
+  [ml/elasticnet_proteomics done in 223 s]
+
+Finished 1 steps in 223 s

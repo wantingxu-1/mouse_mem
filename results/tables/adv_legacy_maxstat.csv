@@ -1,0 +1,8 @@
+protein,behaviour,mice with behaviour,group-adjusted rho,single-test p,rank among proteins,proteins tested,proteins with |rho| >= this,best |rho| by chance (median),best |rho| by chance (95th pct),family-wise p (max-statistic)
+Rbm8a,NOR wk12,22,0.5441,0.0089,240,3492,240,0.7167,0.8363,0.998
+Mrps30,EPM open time wk12,24,-0.6404,0.0007,14,3492,14,0.7011,0.8136,0.8072
+Bclaf1,T-maze wk12 15s,24,0.0853,0.6918,2314,3492,2314,0.6909,0.813,1.0
+Ddc,T-maze wk12 15s,24,-0.3593,0.0847,195,3492,195,0.691,0.8001,1.0
+Ddc,T-maze wk12 60s,24,0.5296,0.0078,10,3492,10,0.6889,0.8053,0.995
+Slc18a2,T-maze wk12 15s,24,-0.3323,0.1126,290,3492,290,0.6929,0.8082,1.0
+Slc18a2,T-maze wk12 60s,24,0.5463,0.0057,6,3492,6,0.6893,0.7909,0.987

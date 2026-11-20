@@ -1,0 +1,16 @@
+outcome,predictor,group-mean r
+Memory composite wk12,Glia_idx,-0.9935
+Memory composite wk12,NeuN_idx,0.6619
+Memory composite wk12,GFAP/NeuN,-0.8803
+Memory composite wk12,IBA1/NeuN,-0.9718
+Memory composite wk12,Glia/NeuN,-0.939
+T-maze wk12 15s,Glia_idx,-0.9383
+T-maze wk12 15s,NeuN_idx,0.4712
+T-maze wk12 15s,GFAP/NeuN,-0.7569
+T-maze wk12 15s,IBA1/NeuN,-0.8885
+T-maze wk12 15s,Glia/NeuN,-0.8355
+NOR wk12,Glia_idx,-0.7136
+NOR wk12,NeuN_idx,0.3059
+NOR wk12,GFAP/NeuN,-0.449
+NOR wk12,IBA1/NeuN,-0.702
+NOR wk12,Glia/NeuN,-0.5746

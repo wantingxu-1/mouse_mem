@@ -1,0 +1,21 @@
+outcome,features,n,LOOCV R2,perm p
+Memory composite wk12,training mean (baseline),21,-0.1025,
+Memory composite wk12,group means (baseline),21,0.182,
+Memory composite wk12,all 15 IHC,21,0.3225,0.0099
+Memory composite wk12,NeuN only (5),21,-0.034,0.0495
+Memory composite wk12,glia only (10),21,0.078,0.0792
+T-maze wk12 15s,training mean (baseline),21,-0.1025,
+T-maze wk12 15s,group means (baseline),21,0.1162,
+T-maze wk12 15s,all 15 IHC,21,0.3332,0.0297
+T-maze wk12 15s,NeuN only (5),21,0.2568,0.0198
+T-maze wk12 15s,glia only (10),21,0.05,0.0198
+NOR wk12,training mean (baseline),19,-0.1142,
+NOR wk12,group means (baseline),19,0.2744,
+NOR wk12,all 15 IHC,19,-0.459,0.9406
+NOR wk12,NeuN only (5),19,-0.1639,0.5545
+NOR wk12,glia only (10),19,-0.1064,0.0891
+Memory composite wk4,training mean (baseline),21,-0.1025,
+Memory composite wk4,group means (baseline),21,0.0855,
+Memory composite wk4,all 15 IHC,21,0.017,0.0297
+Memory composite wk4,NeuN only (5),21,-0.2803,0.8317
+Memory composite wk4,glia only (10),21,0.1351,0.0099

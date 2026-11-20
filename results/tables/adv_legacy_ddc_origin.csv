@@ -1,0 +1,25 @@
+protein,partner,version,n,rho,p
+Ddc,Th,as measured,22,0.537,0.01
+Ddc,Th,group-adjusted ranks,22,0.571,0.0055
+Ddc,Slc6a3,as measured,17,0.576,0.0155
+Ddc,Slc6a3,group-adjusted ranks,17,0.6275,0.007
+Ddc,Ppp1r1b,as measured,22,0.2829,0.2021
+Ddc,Ppp1r1b,group-adjusted ranks,22,0.3043,0.1685
+Ddc,Penk,as measured,22,0.3879,0.0744
+Ddc,Penk,group-adjusted ranks,22,0.4955,0.019
+Ddc,Pde10a,as measured,20,0.7609,0.0001
+Ddc,Pde10a,group-adjusted ranks,20,0.7639,0.0001
+Ddc,Drd1,as measured,20,0.2887,0.217
+Ddc,Drd1,group-adjusted ranks,20,0.2767,0.2376
+Slc18a2,Th,as measured,24,0.5009,0.0127
+Slc18a2,Th,group-adjusted ranks,24,0.5294,0.0078
+Slc18a2,Slc6a3,as measured,17,0.6029,0.0104
+Slc18a2,Slc6a3,group-adjusted ranks,17,0.8039,0.0001
+Slc18a2,Ppp1r1b,as measured,24,0.3435,0.1003
+Slc18a2,Ppp1r1b,group-adjusted ranks,24,0.2713,0.1997
+Slc18a2,Penk,as measured,24,0.3722,0.0733
+Slc18a2,Penk,group-adjusted ranks,24,0.4267,0.0376
+Slc18a2,Pde10a,as measured,22,0.6239,0.0019
+Slc18a2,Pde10a,group-adjusted ranks,22,0.7436,0.0001
+Slc18a2,Drd1,as measured,22,0.3597,0.1001
+Slc18a2,Drd1,group-adjusted ranks,22,0.406,0.0608

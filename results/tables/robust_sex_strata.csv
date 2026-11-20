@@ -1,0 +1,7 @@
+Ddx3y,outcome,groups (n),glia-normal mean,glia-high mean,difference (high - normal)
+not detected,Memory composite wk12,"N EV 4, PM2.5 4, PM2.5 EV 1, Saline 6",0.2748,-0.3713,-0.646
+not detected,T-maze wk12 15s,"N EV 4, PM2.5 4, PM2.5 EV 1, Saline 6",0.8,0.4,-0.4
+not detected,NOR wk12,"N EV 4, PM2.5 4, PM2.5 EV 1, Saline 6",0.5477,0.2427,-0.305
+detected,Memory composite wk12,"N EV 2, PM2.5 2, PM2.5 EV 5",-0.3698,-0.1228,0.247
+detected,T-maze wk12 15s,"N EV 2, PM2.5 2, PM2.5 EV 5",0.6667,0.4762,-0.1905
+detected,NOR wk12,"N EV 2, PM2.5 2, PM2.5 EV 3",0.3955,0.5318,0.1363

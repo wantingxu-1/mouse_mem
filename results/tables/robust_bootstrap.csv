@@ -1,0 +1,9 @@
+statistic,estimate,CI 2.5%,CI 97.5%,CI excludes 0
+Mem12: glia-pattern R2,0.2215,0.0457,0.4737,True
+Mem12: joint glia coef,-0.512,-0.8572,-0.1646,True
+Mem12: joint NeuN coef,-0.0224,-0.3858,0.3486,False
+T12_15: glia-pattern R2,0.1691,0.0225,0.4242,True
+T12_15: joint glia coef,-0.2778,-0.4444,-0.1111,True
+T12_15: joint NeuN coef,0.0556,-0.1389,0.25,False
+rho Glia_idx vs Mem12,-0.4723,-0.732,-0.1327,True
+rho NeuN_idx vs Mem12,0.2149,-0.2431,0.626,False

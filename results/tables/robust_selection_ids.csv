@@ -1,0 +1,13 @@
+subset,group,mice in subset,n
+any IHC stain,Saline,"1, 2, 3, 4, 5, 6, 7",7
+any IHC stain,PM2.5,"13, 14, 15, 16, 17, 18, 19",7
+any IHC stain,PM2.5 EV,"25, 26, 28, 29, 30, 33",6
+any IHC stain,N EV,"37, 38, 39, 40, 41, 42, 43",7
+all three stains (indices),Saline,"2, 3, 4, 6, 7",5
+all three stains (indices),PM2.5,"13, 14, 15, 16, 17",5
+all three stains (indices),PM2.5 EV,"25, 26, 28, 29, 30, 33",6
+all three stains (indices),N EV,"37, 39, 40, 41, 42",5
+proteomics,Saline,"1, 2, 3, 4, 5, 6",6
+proteomics,PM2.5,"13, 14, 15, 16, 17, 18",6
+proteomics,PM2.5 EV,"25, 26, 27, 28, 29, 30",6
+proteomics,N EV,"37, 38, 39, 40, 41, 42",6

@@ -1,0 +1,5 @@
+measure,KW p (change differs by group),Saline mean change,Saline Wilcoxon p,PM2.5 mean change,PM2.5 Wilcoxon p,PM2.5 EV mean change,PM2.5 EV Wilcoxon p,N EV mean change,N EV Wilcoxon p
+T-maze 15s,0.1578,0.25,0.0411,0.1111,0.4314,-0.1111,0.1573,0.0833,0.453
+T-maze 60s,0.7919,-0.0833,0.35,0.0278,0.6707,0.0,0.9517,-0.1111,0.4806
+NOR,0.756,-0.0425,0.5469,0.068,0.5186,0.1163,0.3594,0.1076,0.2783
+EPM open time,0.1388,-4.4545,0.1383,8.0417,0.4443,4.875,0.1232,7.2727,0.9658

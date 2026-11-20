@@ -1,0 +1,71 @@
+target,rank,protein,selection frequency,passes threshold
+Glia_idx,1,Rap2b,0.05,False
+Glia_idx,2,Atp5me,0.045,False
+Glia_idx,3,Fbxo2,0.045,False
+Glia_idx,4,Gorasp1,0.045,False
+Glia_idx,5,Ist1,0.04,False
+Glia_idx,6,Dffa,0.04,False
+Glia_idx,7,Rab11b,0.03,False
+Glia_idx,8,Rnf13,0.025,False
+Glia_idx,9,H2ac21,0.025,False
+Glia_idx,10,Gltp,0.025,False
+IBA1_idx,1,Pdzd11,0.115,False
+IBA1_idx,2,Psme2,0.055,False
+IBA1_idx,3,Calcoco1,0.05,False
+IBA1_idx,4,Pcdh9,0.045,False
+IBA1_idx,5,Ppp1r16a,0.045,False
+IBA1_idx,6,Pdxdc1,0.045,False
+IBA1_idx,7,Esam,0.04,False
+IBA1_idx,8,Tiam2,0.035,False
+IBA1_idx,9,Rap2a,0.035,False
+IBA1_idx,10,Dnajb12,0.035,False
+GFAP_idx,1,Cdk5rap3,0.025,False
+GFAP_idx,2,Gosr2,0.025,False
+GFAP_idx,3,Cstf2t,0.025,False
+GFAP_idx,4,Akap8l,0.02,False
+GFAP_idx,5,Phactr1,0.02,False
+GFAP_idx,6,Tinagl1,0.015,False
+GFAP_idx,7,Mrpl11,0.015,False
+GFAP_idx,8,H1-0,0.015,False
+GFAP_idx,9,Tkfc,0.015,False
+GFAP_idx,10,Gpx4,0.015,False
+NeuN_idx,1,Nudt3,0.06,False
+NeuN_idx,2,Sf3a2,0.055,False
+NeuN_idx,3,Atp5mk,0.05,False
+NeuN_idx,4,Ptgds,0.05,False
+NeuN_idx,5,Dazap1,0.045,False
+NeuN_idx,6,Cstf2t,0.035,False
+NeuN_idx,7,Wnk1,0.035,False
+NeuN_idx,8,Tmub1,0.03,False
+NeuN_idx,9,Jakmip1,0.03,False
+NeuN_idx,10,Snx16,0.025,False
+Mem12,1,Sra1,0.04,False
+Mem12,2,Agfg1,0.035,False
+Mem12,3,Hbs1l,0.035,False
+Mem12,4,Ptprg,0.03,False
+Mem12,5,Snapin,0.025,False
+Mem12,6,U2surp,0.025,False
+Mem12,7,Tusc2,0.025,False
+Mem12,8,Gorasp1,0.02,False
+Mem12,9,Slc1a1,0.02,False
+Mem12,10,Cadm3,0.02,False
+T12_15,1,Prps2,0.08,False
+T12_15,2,Naga,0.045,False
+T12_15,3,U2surp,0.04,False
+T12_15,4,Synj1,0.04,False
+T12_15,5,Atp5me,0.035,False
+T12_15,6,Nlgn4l,0.03,False
+T12_15,7,Adar,0.03,False
+T12_15,8,Dnaja3,0.025,False
+T12_15,9,Dffa,0.025,False
+T12_15,10,Actc1,0.02,False
+POSITIVE CONTROL: detection depth,1,Bcam,0.525,False
+POSITIVE CONTROL: detection depth,2,Slc9a6,0.285,False
+POSITIVE CONTROL: detection depth,3,Osbp,0.265,False
+POSITIVE CONTROL: detection depth,4,Hspa2,0.23,False
+POSITIVE CONTROL: detection depth,5,Rbm39,0.195,False
+POSITIVE CONTROL: detection depth,6,Dnajb11,0.195,False
+POSITIVE CONTROL: detection depth,7,Gsn,0.18,False
+POSITIVE CONTROL: detection depth,8,Lcp1,0.175,False
+POSITIVE CONTROL: detection depth,9,Sez6l2,0.16,False
+POSITIVE CONTROL: detection depth,10,Abraxas2,0.155,False

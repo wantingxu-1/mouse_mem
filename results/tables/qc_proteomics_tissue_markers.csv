@@ -1,0 +1,43 @@
+region / type,protein,mice detected (of 24),abundance percentile
+Hippocampus,Prox1,0,
+Hippocampus,C1ql2,0,
+Hippocampus,Pcp4,24,0.9848
+Hippocampus,Wfs1,24,0.4016
+Hippocampus,Necab2,24,0.6964
+Hippocampus,Calb2,24,0.8959
+Hippocampus,Zbtb20,0,
+Hippocampus,Neurod6,0,
+Cortex,Satb2,15,0.2844
+Cortex,Tbr1,22,0.3059
+Cortex,Bcl11b,10,0.0415
+Cortex,Neurod2,0,
+Cortex,Rorb,0,
+Striatum,Ppp1r1b,24,0.9756
+Striatum,Penk,24,0.7409
+Striatum,Pde10a,22,0.4776
+Striatum,Drd1,22,0.368
+Striatum,Tac1,22,0.4256
+Striatum,Rgs9,7,0.0267
+Striatum,Gpr88,0,
+Striatum,Adora2a,0,
+Olfactory bulb,Omp,9,0.8944
+Hypothalamus,Pmch,24,0.584
+Hypothalamus,Hcrt,0,
+Hypothalamus,Oxt,0,
+Hypothalamus,Avp,0,
+Hypothalamus,Pomc,0,
+Cerebellum,Pcp2,0,
+Cerebellum,Gabra6,0,
+Cerebellum,Cbln1,0,
+Cerebellum,Car8,0,
+Cerebellum,Grid2,0,
+Blood,Hba,24,0.999
+Blood,Hbb-bs,24,0.9965
+Blood,Hbb-b1,24,0.9958
+Blood,Hbb-b2,24,0.9954
+Blood,Alb,24,0.9668
+Blood,Apoa1,24,0.8444
+Y chromosome,Ddx3y,9,0.6172
+Y chromosome,Kdm5d,0,
+Y chromosome,Eif2s3y,0,
+Y chromosome,Uty,0,

@@ -1,0 +1,26 @@
+outcome,n,predictor,LOOCV R2
+Memory composite wk12,21,group means,0.182
+Memory composite wk12,21,Glia index,0.3362
+Memory composite wk12,21,IBA1 index,0.1719
+Memory composite wk12,21,GFAP index,0.299
+Memory composite wk12,21,NeuN index,0.1001
+T-maze wk12 15s,21,group means,0.1162
+T-maze wk12 15s,21,Glia index,0.294
+T-maze wk12 15s,21,IBA1 index,0.1323
+T-maze wk12 15s,21,GFAP index,0.2194
+T-maze wk12 15s,21,NeuN index,0.2677
+NOR wk12,19,group means,0.2744
+NOR wk12,19,Glia index,-0.0503
+NOR wk12,19,IBA1 index,-0.0952
+NOR wk12,19,GFAP index,-0.0898
+NOR wk12,19,NeuN index,-0.162
+Memory composite wk4,21,group means,0.0855
+Memory composite wk4,21,Glia index,0.113
+Memory composite wk4,21,IBA1 index,-0.0411
+Memory composite wk4,21,GFAP index,0.0967
+Memory composite wk4,21,NeuN index,-0.0487
+EPM open time wk12,21,group means,-0.4754
+EPM open time wk12,21,Glia index,-0.2496
+EPM open time wk12,21,IBA1 index,-0.3135
+EPM open time wk12,21,GFAP index,-0.1533
+EPM open time wk12,21,NeuN index,-0.1508

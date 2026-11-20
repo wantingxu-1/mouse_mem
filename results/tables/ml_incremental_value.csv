@@ -1,0 +1,11 @@
+outcome,model,n,LOOCV R2,MAE,gain vs M1 (mean SE drop),gain 95% low,gain 95% high,within-group perm p (gain)
+Memory composite wk12,M0 training mean,21,-0.1025,0.373,,,,
+Memory composite wk12,M1 group means,21,0.182,0.2857,,,,
+Memory composite wk12,M2 group + NeuN,21,0.181,0.3015,-0.0002,-0.0313,0.026,0.1884
+Memory composite wk12,M3 group + Glia,21,0.139,0.3096,-0.0073,-0.0323,0.0127,0.3014
+Memory composite wk12,M4 group + Glia + NeuN,21,0.0921,0.3269,-0.0154,-0.0497,0.0164,0.3262
+T-maze wk12 15s,M0 training mean,21,-0.1025,0.2365,,,,
+T-maze wk12 15s,M1 group means,21,0.1162,0.2222,,,,
+T-maze wk12 15s,M2 group + NeuN,21,0.3898,0.1689,0.02,0.0029,0.0371,0.0062
+T-maze wk12 15s,M3 group + Glia,21,0.0527,0.2242,-0.0046,-0.0225,0.01,0.351
+T-maze wk12 15s,M4 group + Glia + NeuN,21,0.2949,0.1725,0.0131,-0.0097,0.0332,0.0304

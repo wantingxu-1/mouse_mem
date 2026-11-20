@@ -1,0 +1,15 @@
+set,n proteins,proteins
+"Microglia (Hexb, Tmem119, C1q)",4,Hexb Tmem119 C1qb C1qc
+Activated microglia / DAM,6,Apoe Cd9 Ctsb Ctsd Fth1 Ftl1
+Reactive astrocyte,3,Gfap Vim Cd44
+Astrocyte homeostatic,10,Aqp4 Aldh1l1 Slc1a2 Slc1a3 Glul Gja1 Atp1a2 Sparcl1 Aldoc Slc4a4
+Presynaptic,12,Syp Syn1 Syn2 Snap25 Stx1a Vamp2 Syt1 Cplx1 Cplx2 Rab3a Stxbp1 Nsf
+Postsynaptic,11,Dlg4 Shank1 Shank2 Shank3 Homer1 Gria2 Grin2b Camk2a Nrgn Dlgap1 Syngap1
+Neuronal structure,11,Map2 Tubb3 Nefl Nefm Nefh Eno2 Uchl1 Gap43 Stmn2 Mapt Ina
+Myelin / oligodendrocyte,6,Mbp Plp1 Mog Mag Cnp Cldn11
+Lysosome,8,Ctsb Ctsd Ctsl Lamp1 Lamp2 Hexb Psap Atp6v1a
+Oxidative stress,10,Sod1 Sod2 Cat Gpx1 Prdx1 Prdx2 Prdx3 Prdx5 Prdx6 Gsr
+AD-related,7,App Apoe Clu Mapt Bin1 Picalm Snca
+Mitochondrial OXPHOS,70,Cox6a1 Atp5f1d Uqcr10 Uqcrh Ndufs6 Atp5mk Ndufab1 Cox5a Ndufa10 Atp5me Ndufaf2 Ndufv3 Ndufs4 Atp5f1e Cox5b Ndufa8 Ndufb7 Sdha Atp5pf Cox6b1 Ndufv2 Ndufs8 Cox4i1 Ndufaf4 Cox7a2 Ndufb8 Ndufs3 Uqcrb Atp5pd Ndufs5 Ndufa11 Ndufa2 Ndufb1 Ndufb3 Cox6c Ndufa3 Ndufb6 Uqcrfs1 Atp5f1b Ndufa5 Ndufs2 Ndufb10 Ndufs7 Ndufa13 Ndufb5 Cox7c Ndufa7 Uqcrc2 Ndufv1 Atp5if1 Uqcrc1 Sdhb Uqcr11 Ndufc2 Ndufb11 Ndufb4 Atp5mj Ndufa9 Atp5po Atp5mg Atp5pb Ndufa12 Ndufaf3 Atp5mf Ndufs1 Ndufb9 Atp5f1a Atp5f1c Uqcrq Cox7a1
+Ribosome,51,Rps28 Rps27a Rps10 Rps21 Rpl35 Rpl22 Rpl35a Rps25 Rps17 Rps19 Rps12 Rpl22l1 Rpl12 Rpl14 Rps26 Rpl38 Rps15 Rps27 Rpl5 Rps18 Rpl10a Rps20 Rpl29 Rps5 Rpl13 Rpl7a Rps7 Rpl11 Rpl17 Rps9 Rpl19 Rps6kc1 Rpl31 Rps3a Rps14 Rps4x Rpl4 Rpl23a Rpl3 Rps13 Rpl15 Rpl18 Rps3 Rpl7 Rps8 Rps2 Rpl6 Rps15a Rpl26 Rpl27a Rps6
+Proteasome,33,Psmd8 Psma6 Psmd9 Psmb7 Psmb6 Psmd6 Psmd14 Psmd4 Psma3 Psmd7 Psmb5 Psmb4 Psma7 Psmd11 Psma1 Psma5 Psmd12 Psma4 Psmc6 Psmc1 Psmd2 Psmb2 Psma2 Psmb1 Psmd13 Psmc5 Psmc3 Psmd1 Psmc4 Psmd5 Psmc2 Psmd3 Psmb3

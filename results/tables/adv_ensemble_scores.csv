@@ -1,0 +1,13 @@
+outcome,n,model,LOOCV R2,MAE
+Memory composite wk12,19,training mean (baseline),-0.1142,0.3505
+Memory composite wk12,19,group means,0.0582,0.3036
+Memory composite wk12,19,Ridge 15 IHC,0.2403,0.2638
+Memory composite wk12,19,Ridge Glia+NeuN index,0.2261,0.2687
+Memory composite wk12,19,Ridge protein sets,-0.1478,0.3599
+Memory composite wk12,19,weighted ensemble,0.1236,0.2933
+T-maze wk12 15s,19,training mean (baseline),-0.1142,0.2398
+T-maze wk12 15s,19,group means,0.1154,0.2018
+T-maze wk12 15s,19,Ridge 15 IHC,0.1025,0.2009
+T-maze wk12 15s,19,Ridge Glia+NeuN index,0.3162,0.1703
+T-maze wk12 15s,19,Ridge protein sets,-0.117,0.2402
+T-maze wk12 15s,19,weighted ensemble,0.2365,0.1837

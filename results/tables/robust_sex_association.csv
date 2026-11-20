@@ -1,0 +1,6 @@
+variable,n,mean Ddx3y+,mean Ddx3y-,Mann-Whitney p (all mice),within-group r,within-group p
+Memory composite wk12,24,-0.1777,0.0594,0.2448,0.003,0.989
+T-maze wk12 15s,24,0.5185,0.6667,0.2842,0.2684,0.2047
+NOR wk12,22,0.4929,0.446,0.8878,0.0963,0.6698
+Glia index,23,0.4212,-0.2731,0.0348,0.0923,0.6752
+NeuN index,21,-0.3418,0.0957,0.1213,-0.0605,0.7945

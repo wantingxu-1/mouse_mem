@@ -1,0 +1,16 @@
+outcome,test,n,BF01 (for no effect),BF10 (for effect),reading
+Memory composite wk12,"glia effect (joint model, BIC)",48,0.126,7.939,moderate for an effect
+Memory composite wk12,"NeuN effect (joint model, BIC)",48,6.8848,0.1452,moderate for no effect
+Memory composite wk12,Saline vs N EV (JZS t-test),24,2.6668,0.375,inconclusive
+T-maze wk12 15s,"glia effect (joint model, BIC)",48,0.1655,6.0413,moderate for an effect
+T-maze wk12 15s,"NeuN effect (joint model, BIC)",48,6.1392,0.1629,moderate for no effect
+T-maze wk12 15s,Saline vs N EV (JZS t-test),24,2.42,0.4132,inconclusive
+T-maze wk12 60s,"glia effect (joint model, BIC)",48,6.9282,0.1443,moderate for no effect
+T-maze wk12 60s,"NeuN effect (joint model, BIC)",48,2.9489,0.3391,inconclusive
+T-maze wk12 60s,Saline vs N EV (JZS t-test),24,1.6443,0.6081,inconclusive
+NOR wk12,"glia effect (joint model, BIC)",42,1.1985,0.8344,inconclusive
+NOR wk12,"NeuN effect (joint model, BIC)",42,4.3348,0.2307,moderate for no effect
+NOR wk12,Saline vs N EV (JZS t-test),21,1.8925,0.5284,inconclusive
+Memory composite wk4,"glia effect (joint model, BIC)",48,0.2814,3.5533,moderate for an effect
+Memory composite wk4,"NeuN effect (joint model, BIC)",48,6.9282,0.1443,moderate for no effect
+Memory composite wk4,Saline vs N EV (JZS t-test),24,2.6798,0.3732,inconclusive

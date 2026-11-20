@@ -1,0 +1,46 @@
+outcome,n,model,AIC,R2
+Memory composite wk12,21,1,24.4914,0.0
+Memory composite wk12,21,C(group),17.508,0.4611
+Memory composite wk12,21,NeuN_idx,21.2502,0.2209
+Memory composite wk12,21,IBA1_idx,19.4478,0.285
+Memory composite wk12,21,GFAP_idx,15.4052,0.4102
+Memory composite wk12,21,Glia_idx,14.1157,0.4453
+Memory composite wk12,21,NeuN_idx + IBA1_idx,19.753,0.3404
+Memory composite wk12,21,C(group) + IBA1_idx,19.4098,0.4636
+Memory composite wk12,21,C(group) + NeuN_idx,18.1941,0.4938
+T-maze wk12 15s,21,1,6.6513,-0.0
+T-maze wk12 15s,21,C(group),1.2743,0.4183
+T-maze wk12 15s,21,NeuN_idx,-1.0825,0.3709
+T-maze wk12 15s,21,IBA1_idx,0.8322,0.3109
+T-maze wk12 15s,21,GFAP_idx,0.0751,0.3353
+T-maze wk12 15s,21,Glia_idx,-2.8149,0.4207
+T-maze wk12 15s,21,NeuN_idx + IBA1_idx,-2.1699,0.4569
+T-maze wk12 15s,21,C(group) + IBA1_idx,3.0432,0.4246
+T-maze wk12 15s,21,C(group) + NeuN_idx,-4.0687,0.5899
+NOR wk12,19,1,-3.6556,0.0
+NOR wk12,19,C(group),-12.9098,0.552
+NOR wk12,19,NeuN_idx,-2.1979,0.0281
+NOR wk12,19,IBA1_idx,-4.6779,0.1471
+NOR wk12,19,GFAP_idx,-3.5556,0.0952
+NOR wk12,19,Glia_idx,-5.0186,0.1622
+NOR wk12,19,NeuN_idx + IBA1_idx,-2.6787,0.1471
+NOR wk12,19,C(group) + IBA1_idx,-12.3266,0.5841
+NOR wk12,19,C(group) + NeuN_idx,-11.0114,0.5543
+Memory composite wk4,21,1,39.6682,0.0
+Memory composite wk4,21,C(group),35.0659,0.3964
+Memory composite wk4,21,NeuN_idx,38.9544,0.1212
+Memory composite wk4,21,IBA1_idx,37.8389,0.1667
+Memory composite wk4,21,GFAP_idx,35.0857,0.2691
+Memory composite wk4,21,Glia_idx,34.8689,0.2766
+Memory composite wk4,21,NeuN_idx + IBA1_idx,39.1233,0.1946
+Memory composite wk4,21,C(group) + IBA1_idx,36.0605,0.4246
+Memory composite wk4,21,C(group) + NeuN_idx,36.7843,0.4045
+EPM open time wk12,21,1,191.0201,0.0
+EPM open time wk12,21,C(group),196.0578,0.0448
+EPM open time wk12,21,NeuN_idx,191.9989,0.0475
+EPM open time wk12,21,IBA1_idx,192.8415,0.0085
+EPM open time wk12,21,GFAP_idx,192.5044,0.0243
+EPM open time wk12,21,Glia_idx,192.6078,0.0194
+EPM open time wk12,21,NeuN_idx + IBA1_idx,192.7861,0.1009
+EPM open time wk12,21,C(group) + IBA1_idx,197.6159,0.0647
+EPM open time wk12,21,C(group) + NeuN_idx,197.4446,0.0723

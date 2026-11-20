@@ -1,0 +1,5 @@
+model,effect at 15 s,mice,odds ratio,OR 95% low,OR 95% high,p,activity OR per SD,activity p
+unadjusted,glia,46,0.3009,0.1223,0.7404,0.0089,,
+unadjusted,NeuN,46,1.1886,0.3595,3.9293,0.777,,
++ EPM crossings,glia,46,0.304,0.1226,0.754,0.0102,1.0196,0.8516
++ EPM crossings,NeuN,46,1.173,0.3546,3.8803,0.7938,1.0196,0.8516

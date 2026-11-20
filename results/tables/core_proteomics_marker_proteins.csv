@@ -1,0 +1,27 @@
+cell type,protein,n mice,log2 diff PM2.5 vs Saline,log2 diff PM2.5 EV vs Saline,log2 diff N EV vs Saline,ANOVA p
+Astrocyte,Gfap,24,0.6415,0.2269,0.2437,0.4575
+Astrocyte,Aqp4,24,-0.5059,-0.2869,-0.5743,0.3184
+Astrocyte,Aldh1l1,24,0.3084,0.0828,0.2386,0.9406
+Astrocyte,S100b,24,-0.3147,-0.2888,-0.7142,0.2527
+Astrocyte,Vim,24,0.3927,-0.0325,-0.0497,0.5249
+Astrocyte,Slc1a3,24,-0.1435,0.0397,-0.1417,0.862
+Astrocyte,Slc1a2,24,-0.0716,0.1706,0.2169,0.702
+Astrocyte,Glul,24,-0.1711,-0.215,-0.374,0.7587
+Microglia,Hexb,24,-0.5161,0.025,0.1312,0.4203
+Microglia,Tmem119,21,-0.0813,0.3161,-0.1025,0.8125
+Microglia,P2ry12,19,0.1719,-0.185,-0.2138,0.9
+Microglia,C1qb,22,0.0063,0.1957,0.0738,0.9715
+Microglia,Aif1,14,-0.2981,0.1127,-0.066,
+Neuron/synapse,Rbfox3,16,0.5724,0.0589,0.21,0.1887
+Neuron/synapse,Syp,24,0.0851,0.3169,0.2826,0.4616
+Neuron/synapse,Syn1,24,-0.0304,-0.1097,-0.1009,0.9854
+Neuron/synapse,Dlg4,24,0.2529,0.2685,0.4386,0.6067
+Neuron/synapse,Snap25,24,-0.4192,-0.2109,-0.3066,0.6212
+Neuron/synapse,Map2,24,-0.2087,0.0033,-0.173,0.6054
+Neuron/synapse,Nefl,24,0.3762,0.1841,0.2044,0.7748
+Neuron/synapse,Camk2a,24,0.1733,0.4428,0.3663,0.8101
+Neuron/synapse,Nrgn,23,-0.5766,0.3032,0.3404,0.3859
+Neuron/synapse,Gap43,24,-0.3694,-0.1479,-0.4856,0.2805
+Neuron/synapse,Calb1,24,-0.3082,0.0617,-0.1151,0.4429
+Oligodendrocyte,Mbp,24,-0.2559,0.1462,0.0075,0.4471
+Oligodendrocyte,Plp1,24,-0.2872,0.558,0.4212,0.4731

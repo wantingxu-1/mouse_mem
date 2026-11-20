@@ -1,0 +1,5 @@
+model,n,LOOCV R2,MAE,IHC share of comp-1 weight
+training mean (baseline),19,-0.1142,0.3505,
+IHC only,19,0.3287,0.2489,
+protein sets only,19,-1.0527,0.4732,
+IHC + protein sets (block-scaled),19,0.2835,0.2554,0.9125

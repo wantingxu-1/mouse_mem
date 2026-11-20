@@ -1,0 +1,13 @@
+IHC,memory,n,rho (within N EV),p
+Glia recovery,Mem12 recovery,6,0.2571,0.6228
+Glia recovery,T12_15 recovery,6,-0.4938,0.3195
+Glia recovery,NOR12 recovery,6,-0.0286,0.9572
+GFAP_pct recovery,Mem12 recovery,6,-0.6,0.208
+GFAP_pct recovery,T12_15 recovery,6,-0.2777,0.5941
+GFAP_pct recovery,NOR12 recovery,6,-0.3714,0.4685
+IBA1_pct recovery,Mem12 recovery,6,0.5429,0.2657
+IBA1_pct recovery,T12_15 recovery,6,-0.1852,0.7254
+IBA1_pct recovery,NOR12 recovery,6,0.4286,0.3965
+NeuN_pct recovery,Mem12 recovery,6,0.0857,0.8717
+NeuN_pct recovery,T12_15 recovery,6,0.0926,0.8615
+NeuN_pct recovery,NOR12 recovery,6,0.2,0.704

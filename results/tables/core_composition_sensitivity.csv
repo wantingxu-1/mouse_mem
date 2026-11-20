@@ -1,0 +1,12 @@
+analysis,version,n,outcome SD,glia-pattern coef,glia-pattern p,NeuN-pattern p,rho,p,within-group rho,within-group p
+memory composite wk12: primary contrast,available items (main),48,0.5617,-0.512,0.0064,0.9141,,,,
+memory composite wk12: primary contrast,"complete cases, 3 items",42,0.5679,-0.5278,0.0076,0.8791,,,,
+memory composite wk12: primary contrast,T-maze items only,48,0.6248,-0.4521,0.0304,0.473,,,,
+glia index vs Memory composite wk12,available markers (main),26,,,,,-0.4723,0.0148,-0.2218,0.2762
+glia index vs T-maze wk12 15s,available markers (main),26,,,,,-0.4364,0.0258,-0.0355,0.8632
+glia index vs Memory composite wk12,both markers only,22,,,,,-0.6056,0.0028,-0.2764,0.2131
+glia index vs T-maze wk12 15s,both markers only,22,,,,,-0.6225,0.002,-0.1671,0.4574
+glia index vs Memory composite wk12,GFAP index,24,,,,,-0.4959,0.0137,-0.0621,0.7733
+glia index vs T-maze wk12 15s,GFAP index,24,,,,,-0.5249,0.0085,-0.0954,0.6574
+glia index vs Memory composite wk12,IBA1 index,24,,,,,-0.4654,0.0219,-0.1944,0.3628
+glia index vs T-maze wk12 15s,IBA1 index,24,,,,,-0.5184,0.0095,-0.1308,0.5425

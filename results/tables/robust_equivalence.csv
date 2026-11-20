@@ -1,0 +1,16 @@
+outcome,effect,estimate,90% CI low,90% CI high,bound (+/- 0.5 SD),equivalent (inside bound),narrowest passing bound (SD units)
+Memory composite wk12,glia effect,-0.512,-0.8127,-0.2113,0.2809,False,1.4469
+Memory composite wk12,NeuN effect,-0.0224,-0.3697,0.3248,0.2809,False,0.6581
+Memory composite wk12,N EV minus Saline,-0.0224,-0.3578,0.3129,0.2809,False,0.6369
+T-maze wk12 15s,glia effect,-0.2778,-0.4473,-0.1083,0.1536,False,1.456
+T-maze wk12 15s,NeuN effect,0.0556,-0.1402,0.2513,0.1536,False,0.818
+T-maze wk12 15s,N EV minus Saline,0.0556,-0.1252,0.2363,0.1536,False,0.7693
+T-maze wk12 60s,glia effect,0.0,-0.1582,0.1582,0.1338,False,0.591
+T-maze wk12 60s,NeuN effect,-0.1389,-0.3216,0.0438,0.1338,False,1.2012
+T-maze wk12 60s,N EV minus Saline,-0.1389,-0.3438,0.066,0.1338,False,1.2843
+NOR wk12,glia effect,-0.156,-0.3015,-0.0105,0.1212,False,1.2443
+NOR wk12,NeuN effect,0.0914,-0.0859,0.2687,0.1212,False,1.1088
+NOR wk12,N EV minus Saline,0.0914,-0.0667,0.2495,0.1212,False,1.0296
+Memory composite wk4,glia effect,-0.5142,-0.8548,-0.1735,0.3093,False,1.382
+Memory composite wk4,NeuN effect,0.0003,-0.393,0.3936,0.3093,False,0.6364
+Memory composite wk4,N EV minus Saline,0.0003,-0.4126,0.4132,0.3093,False,0.668
