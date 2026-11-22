@@ -4,21 +4,26 @@ All numbers are produced by `python run_all.py`. Tables are in `results/tables/`
 
 ---
 
-## 1. Conclusion
+## 1. Summary
 
-**Week-12 short-delay memory fits the glial-activation group pattern (IBA1 microglia, GFAP astrocytes) better than the NeuN-loss pattern. In these data, lower NeuN alone does not appear sufficient for the memory deficit.**
+**The question.** Mice exposed to PM2.5 remember less well. Their brains show two changes at once: fewer signs of neurons (lower NeuN staining) and more activated support cells, called glia (higher IBA1 and GFAP staining). Which of the two goes with the memory problem?
 
-**Strength of evidence: consistent, but exploratory.**
+**The key group.** One group, N EV, separates the two. Its NeuN is as low as in the PM2.5 groups, but its glia look normal. If memory followed NeuN, N EV mice should remember poorly. If memory followed glia, they should remember normally.
 
-- Before correction, p = 0.006–0.008.
-- After Holm correction across the 8 primary tests, p = 0.051–0.083, which is borderline.
-- The two patterns were defined after looking at the stain group means, and the analysis was not pre-registered.
+**What we found.** N EV mice remembered about as well as Saline mice. So memory fits the glia pattern better than the NeuN pattern. Lower NeuN on its own does not seem to be enough to cause the memory problem.
 
-**Limits on interpretation:**
+**How sure we are: a consistent lead, not a proven result.**
 
-1. **Fitting the glia pattern better does not prove a glial mechanism.** Any other difference between the N EV and PM2.5 groups would explain the result equally well.
-2. **NeuN cannot be said to play no role.** Individual NeuN adds a small gain, but that gain is sensitive to which mice are included. A NeuN role in long-delay (60 s) memory also cannot be ruled out.
-3. **The proteomics model did not beat the baseline.** In this batch, the proteomics models tested did not predict behaviour better than the baseline. A tissue or technical cause is a plausible explanation (see 5.11) but is not confirmed. This does not show that proteomics can never predict behaviour.
+- The result points the same way in almost every check we ran.
+- Taken alone, the main tests are significant (p = 0.006–0.009).
+- After correcting for running 8 main tests, they are just short of the usual threshold (p = 0.051–0.083).
+- We chose the two patterns after looking at the stain results, and the analysis was not planned in advance.
+
+**What this does not show:**
+
+1. **That glia cause the memory problem.** N EV differs from the PM2.5 groups in other ways too, and any of those could explain the result.
+2. **That NeuN plays no role.** Individual NeuN values add a little predictive power, but this depends on which mice are included. A NeuN role in longer-delay (60 s) memory is also still possible.
+3. **That brain proteins carry no information.** The protein measurements did not predict behaviour better than a simple baseline. The likely reason is that the protein samples came from a different brain region (see 5.11), but this is not confirmed.
 
 ---
 
@@ -39,18 +44,18 @@ Groups: Saline 1–12, PM2.5 13–24, PM2.5 EV 25–36, N EV 37–48.
 | PM2.5 EV     | **81**          | **163**         | **161**         | −0.26           |
 | N EV         | **79**          | 103             | 119             | +0.26           |
 
-**N EV is the deciding group.** NeuN is lower in all three treated groups, but glia are raised only in the two PM2.5 groups.
+**N EV is the deciding group.** All three treated groups have lower NeuN, but only the two PM2.5 groups have activated glia. So the two explanations make different predictions for one group only:
 
-- **Glia pattern:** PM2.5 and PM2.5 EV are coded as impaired.
-- **NeuN pattern:** all three treated groups are coded as impaired.
+- **If memory follows glia,** PM2.5 and PM2.5 EV should be impaired and N EV should be normal.
+- **If memory follows NeuN,** all three treated groups, N EV included, should be impaired.
 
-The two patterns differ only in N EV, so whether N EV's memory is normal tells us which explanation fits better.
+Whether N EV's memory is normal therefore tells us which explanation fits better.
 
 **Definitions:**
 
-- **Stain index:** z-score each of the 5 regions, then average.
-- **Glia index:** the mean of the GFAP and IBA1 indices.
-- **Memory composite:** the mean z of T-maze 15 s, T-maze 60 s and NOR.
+- **Stain index:** one number per mouse and stain. Each of the 5 brain regions is put on a common scale (z-score), then the 5 are averaged.
+- **Glia index:** the average of the GFAP and IBA1 indices.
+- **Memory composite:** one memory score per mouse, the average of T-maze 15 s, T-maze 60 s and novel object recognition (NOR), each on a common scale.
 
 ---
 
@@ -60,30 +65,30 @@ The two patterns differ only in N EV, so whether N EV's memory is normal tells u
 
 ![Figure 1](results/figures/fig1_group_dissociation.png)
 
-N EV has NeuN as low as the PM2.5 groups, but its IBA1, GFAP and memory are close to Saline. This figure carries the whole argument.
+N EV's NeuN is as low as in the PM2.5 groups, but its glia stains and its memory look like Saline. This one figure carries the whole argument.
 
 ### Figure 2: individual mice
 
 ![Figure 2](results/figures/fig2_individual_mice.png)
 
-- Left: the higher the glia index, the worse the memory (ρ = −0.47, p = 0.015).
-- Right: the NeuN index is unrelated to memory (ρ = 0.21, p = 0.31).
-- Caveat: this correlation comes mainly from differences between groups. Within groups no correlation is significant, but with 5–6 stained mice per group power is very low, so this is not evidence of no relationship.
+- Left: mice with more glial activation tend to have worse memory (ρ = −0.47, p = 0.015).
+- Right: NeuN shows no such link (ρ = 0.21, p = 0.31).
+- Caveat: the glia link comes mainly from differences between groups. Within a single group no link is significant, but with only 5–6 stained mice per group we could easily miss one, so this is not evidence that there is none.
 
 ### Figure 3: evidence summary
 
 ![Figure 3](results/figures/fig3_evidence_summary.png)
 
-- Each row is one model: outcome ~ glia pattern + NeuN pattern. The outcome is in SD units and the bars are 95% CIs.
-- The glia effect is negative for the week-12 memory composite, the week-4 memory composite and T-maze 15 s.
-- The NeuN effect sits near 0 in every row.
+- Each row is one memory measure, analysed with both explanations in the same model. Bars show how much each pattern shifts the score (in SD units), with 95% confidence intervals.
+- The glia pattern lowers the score for the week-12 memory composite, the week-4 memory composite and T-maze 15 s.
+- The NeuN pattern sits near zero in every row.
 
 ### Figure 4: which stains move with behaviour
 
 ![Figure 4](results/figures/fig4_mechanism.png)
 
-- **A:** the strongest shared axis found by canonical PLS is IBA1 (all 5 regions) plus GFAP (CA1, CA3) against T-maze 15 s. Every NeuN weight has a CI that includes 0.
-- **B:** at the 15 s delay, the two normal-glia groups (Saline, N EV) are above chance. At 60 s, only Saline is above chance.
+- **A:** looking for the combination of stains that moves most closely with behaviour (canonical PLS), the method picks IBA1 in all 5 regions plus GFAP in CA1 and CA3, matched to T-maze 15 s. No NeuN region contributes reliably.
+- **B:** with a 15 s delay, the two groups with normal glia (Saline, N EV) choose correctly more often than chance. With a 60 s delay, only Saline does.
 
 ---
 
@@ -113,6 +118,13 @@ N EV has NeuN as low as the PM2.5 groups, but its IBA1, GFAP and memory are clos
 | N EV     | 0.81 (above chance, p < 0.001) | 0.53                           |
 
 At 60 s, N EV is also at chance, which looks more like the NeuN pattern. But the group difference at 60 s is not significant (p = 0.22–0.54).
+
+**Direct comparison with Saline** (Mann–Whitney, uncorrected; `core_group_behaviour.csv`). The glia contrast above compares the two PM2.5 groups with N EV, not with Saline. Against Saline directly:
+
+- week-12 memory composite: PM2.5 p = 0.017, PM2.5 EV p = 0.015;
+- T-maze 15 s alone: PM2.5 p = 0.12 (not significant), PM2.5 EV p = 0.039.
+
+So the PM2.5 deficit is clear on the composite, but not on every single test.
 
 **Machine learning** (nested leave-one-out, predicting the week-12 memory composite, LOOCV R²):
 
@@ -298,15 +310,15 @@ Modules: `qc/qc_checks.py`, `qc/proteomics_integrity.py`.
 
 ## 6. Limitations
 
-- NeuN is staining intensity, not a neuron count.
-- Only 5–6 stained mice per group, so within-group power is very low.
-- Each T-maze condition has only 3 trials, so the score is coarse.
-- No group has high glia with normal NeuN, so "both are needed for the deficit" cannot be tested.
-- Week 4 is not a pre-treatment baseline; sex, cage and batch were not recorded.
+- **NeuN is a stain, not a count.** A weaker stain could mean fewer neurons, or the same neurons staining more weakly.
+- **Few stained mice.** Only 5–6 per group, so links within a group are hard to detect.
+- **Coarse T-maze scores.** Every score is a multiple of 1/3, consistent with 3 trials per condition (inferred, not from the original records), so each mouse's score is rough.
+- **A missing group.** No group has activated glia with normal NeuN, so we cannot test whether glia need low NeuN to cause the deficit.
+- Week 4 is not a pre-treatment baseline; sex, cage and batch were not recorded. Permutation tests therefore treat the mouse as the unit of randomisation; if treatment was assigned by cage, the p-values may be too small.
 - The analysis was not pre-registered, and the patterns were defined from the observed group means.
 - All robustness checks use the same 48 mice, so they are not independent replications.
 
-**New measurements that could settle the question:**
+**New measurements that would help** (none is a complete fix on its own):
 
 - stereological counts of NeuN-positive cells;
 - staining the remaining 24 behaviour-tested mice;
